@@ -1,0 +1,1 @@
+# picto-yes-no-android
